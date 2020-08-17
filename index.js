@@ -158,4 +158,5 @@ $download.addEventListener('click', download);
 $prev.addEventListener('click', prevFilter);
 
 // Apply default avatar
-drawAvatar('avatar.jpg');
+//drawAvatar('avatar.jpg');
+drawAvatar('kubecon-bg.png');
